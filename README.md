@@ -3,6 +3,10 @@ Simple password manager(local); Version C++
 
 This applications checks if the user has an account created before using it, if he doesnt, he creates one, then he must login using that account. After he logins, he can either add a list with the following format (Domain ; Email ; Password) or he can either see the existent ones
 
+
+>![My image](ignore.png)
+
+
 >![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ```
 #include <iostream>
